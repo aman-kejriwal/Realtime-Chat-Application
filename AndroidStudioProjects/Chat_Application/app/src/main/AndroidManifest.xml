@@ -24,11 +24,11 @@
         </activity>
         <activity
             android:name=".sign_upActivity"
-            android:exported="true">
+            android:exported="false">
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true"></activity>
+            android:exported="false"></activity>
     </application>
 
 </manifest>
