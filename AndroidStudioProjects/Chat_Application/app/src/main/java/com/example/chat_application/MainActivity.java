@@ -14,9 +14,15 @@ import com.example.chat_application.databinding.ActivityMainBinding;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
+    public static final String FIREBASE_DATABASE_LINK = "https://chat-application-be2ab-default-rtdb.firebaseio.com/";
    ActivityMainBinding binding;
    FirebaseAuth mAuth;
-
+//    @Override
+//    public void onBackPressed() {
+//        // do something on back.
+//        finish();
+//        return;
+//    }
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);

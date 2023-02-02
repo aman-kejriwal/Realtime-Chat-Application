@@ -8,8 +8,8 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/drawable/et_message.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout-land/sample_sender.xml" value="0.15432098765432098" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout-sw600dp/sample_sender.xml" value="0.13671875" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/activity_chat.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout-sw600dp/sample_sender.xml" value="0.12" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/activity_chat.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/activity_sign_in.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/activity_sign_up.xml" value="0.14666666666666667" />
@@ -17,7 +17,7 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/fragment_chat.xml" value="0.16032608695652173" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/fragment_status.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/sample_receiver.xml" value="0.4466666666666667" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/sample_sender.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/sample_sender.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Chat_Application/app/src/main/res/layout/sample_show_user.xml" value="0.22" />
       </map>
     </option>
